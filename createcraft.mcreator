@@ -164,15 +164,6 @@
       "registry_name": "dirt_plate_iii"
     },
     {
-      "name": "ReinforcedCobblePlateAdv",
-      "type": "achievement",
-      "sortid": 15,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "reinforced_cobble_plate_adv"
-    },
-    {
       "name": "DirtPlateIIIRecipe",
       "type": "recipe",
       "sortid": 15,
@@ -189,6 +180,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_ii_get"
+    },
+    {
+      "name": "DirtPlateIIIGet",
+      "type": "achievement",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iii_get"
+    },
+    {
+      "name": "ReinforcedCobblePlateAdv",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_cobble_plate_adv"
     }
   ],
   "variable_elements": [],

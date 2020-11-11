@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "createcraft:dirt_plate_iii"
+    },
+    "title": {
+      "translate": "advancements.dirt_plate_iii_get.title"
+    },
+    "description": {
+      "translate": "advancements.dirt_plate_iii_get.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "dirt_plate_iii_get": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "createcraft:dirt_plate_iii",
+            "count": {
+              "min": 1,
+              "max": 3485394
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "createcraft:dirt_plate_ii_get"
+}
