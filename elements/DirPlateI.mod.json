@@ -5,7 +5,7 @@
     "renderType": 0,
     "texture": "dirtplatetex",
     "customModelName": "Normal",
-    "name": "Dir Plate I",
+    "name": "Dirt Plate I",
     "creativeTab": {
       "value": "CUSTOM:CreateCraft"
     },
