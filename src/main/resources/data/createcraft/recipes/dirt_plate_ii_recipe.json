@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "1": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "2": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "3": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "6": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "7": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "8": {
+      "item": "createcraft:dir_plate_i"
+    }
+  },
+  "result": {
+    "item": "createcraft:dirt_plate_ii",
+    "count": 1
+  }
+}

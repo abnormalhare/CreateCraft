@@ -122,7 +122,7 @@
       "name": "ReinforcedCobblePlate",
       "type": "item",
       "sortid": 12,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_cobble_plate"
@@ -131,10 +131,19 @@
       "name": "DirtPlateII",
       "type": "item",
       "sortid": 12,
-      "compiles": false,
+      "compiles": true,
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_ii"
+    },
+    {
+      "name": "DirtPlateIIRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ii_recipe"
     }
   ],
   "variable_elements": [],
