@@ -119,6 +119,15 @@
       "registry_name": "hardened_dirt_block_rec"
     },
     {
+      "name": "ReinforcedCobblePlate",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_cobble_plate"
+    },
+    {
       "name": "DirtPlateII",
       "type": "item",
       "sortid": 12,
@@ -135,15 +144,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_ii_recipe"
-    },
-    {
-      "name": "ReinforcedCobblePlate",
-      "type": "item",
-      "sortid": 12,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "reinforced_cobble_plate"
     }
   ],
   "variable_elements": [],
