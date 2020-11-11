@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedDirtPlate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedDirtPlate"
+      },
+      {
+        "value": "CUSTOM:ReinforcedDirtBlock"
+      },
+      {
+        "value": "CUSTOM:HardenedDirtPlate"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:HardenedDirtPlate"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:HardenedDirtBlock"
+    },
+    "name": "hardened_dirt_block_rec",
+    "namespace": "mod"
+  }
+}

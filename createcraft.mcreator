@@ -108,6 +108,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hardened_dirt_block"
+    },
+    {
+      "name": "HardenedDirtBlockRec",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_dirt_block_rec"
     }
   ],
   "variable_elements": [],
