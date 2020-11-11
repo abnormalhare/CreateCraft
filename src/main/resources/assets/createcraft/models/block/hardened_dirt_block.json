@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1",
+    "up": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1",
+    "north": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1",
+    "east": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1",
+    "south": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1",
+    "west": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1",
+    "particle": "createcraft:blocks/266df7ab6322509273a9cddeeee5a3e7_1"
+  }
+}

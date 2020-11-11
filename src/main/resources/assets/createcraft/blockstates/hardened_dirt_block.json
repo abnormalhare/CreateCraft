@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createcraft:block/hardened_dirt_block"
+    }
+  }
+}
