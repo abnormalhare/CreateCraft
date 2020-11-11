@@ -180,20 +180,31 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_ii_get"
+    },
+    {
+      "name": "DirtPlateIIIGet",
+      "type": "achievement",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iii_get"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
+      "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",
       "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
+      "advancements.dirt_plate_iii_get.descr": "Craft a Dirt Plate III",
       "advancements.dirt_plate_adv.descr": "Make a dirt plate for many definitely very useful things.",
+      "advancements.dirt_plate_iii_get.title": "Sunny Dirt",
       "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.hardened_dirt_plate": "Hardened Dirt Plate",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
