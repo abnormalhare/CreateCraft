@@ -2,13 +2,13 @@
 package net.mcreator.createcraft.item;
 
 @CreatecraftModElements.ModElement.Tag
-public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
+public class DirtPlateIIIItem extends CreatecraftModElements.ModElement {
 
-	@ObjectHolder("createcraft:dirt_plate_ii")
+	@ObjectHolder("createcraft:dirt_plate_iii")
 	public static final Item block = null;
 
-	public DirtPlateIIItem(CreatecraftModElements instance) {
-		super(instance, 12);
+	public DirtPlateIIIItem(CreatecraftModElements instance) {
+		super(instance, 14);
 	}
 
 	@Override
@@ -19,8 +19,8 @@ public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
 	public static class ItemCustom extends Item {
 
 		public ItemCustom() {
-			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
-			setRegistryName("dirt_plate_ii");
+			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			setRegistryName("dirt_plate_iii");
 		}
 
 		@Override
@@ -41,7 +41,7 @@ public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("A more compacted dirt plate."));
+			list.add(new StringTextComponent("Very compressed dirt plates."));
 		}
 
 	}

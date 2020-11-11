@@ -153,6 +153,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_cobble_plate_rec"
+    },
+    {
+      "name": "DirtPlateIII",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iii"
     }
   ],
   "variable_elements": [],
