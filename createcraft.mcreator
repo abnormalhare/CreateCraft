@@ -171,6 +171,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_cobble_plate_adv"
+    },
+    {
+      "name": "DirtPlateIIIRecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iii_recipe"
+    },
+    {
+      "name": "DirtPlateIIGet",
+      "type": "achievement",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ii_get"
     }
   ],
   "variable_elements": [],
@@ -192,9 +210,7 @@
       "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
       "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
-      "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
-      "itemGroup.tabcreate_craft": "Create Craft",
-      "advancements.reinforced_cobble_plate_adv.title": "The Flatstones"
+      "itemGroup.tabcreate_craft": "Create Craft"
     }
   },
   "workspaceSettings": {
