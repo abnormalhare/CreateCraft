@@ -2,12 +2,12 @@
 package net.mcreator.createcraft.item;
 
 @CreatecraftModElements.ModElement.Tag
-public class ReinforcedCobblePlateItem extends CreatecraftModElements.ModElement {
+public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
 
-	@ObjectHolder("createcraft:reinforced_cobble_plate")
+	@ObjectHolder("createcraft:dirt_plate_ii")
 	public static final Item block = null;
 
-	public ReinforcedCobblePlateItem(CreatecraftModElements instance) {
+	public DirtPlateIIItem(CreatecraftModElements instance) {
 		super(instance, 12);
 	}
 
@@ -19,8 +19,8 @@ public class ReinforcedCobblePlateItem extends CreatecraftModElements.ModElement
 	public static class ItemCustom extends Item {
 
 		public ItemCustom() {
-			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
-			setRegistryName("reinforced_cobble_plate");
+			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			setRegistryName("dirt_plate_ii");
 		}
 
 		@Override
@@ -36,6 +36,12 @@ public class ReinforcedCobblePlateItem extends CreatecraftModElements.ModElement
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
+		}
+
+		@Override
+		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
+			super.addInformation(itemstack, world, list, flag);
+			list.add(new StringTextComponent("A more compacted dirt plate."));
 		}
 
 	}
