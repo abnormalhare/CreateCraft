@@ -1,5 +1,6 @@
 {
   "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
+  "item.createcraft.dirt_plate_ii": "Dirt Plate II",
   "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
   "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",
   "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
@@ -7,6 +8,7 @@
   "advancements.dirt_plate_adv.descr": "Make a dirt plate for many definitely very useful things.",
   "advancements.break_dirt.title": "Break Dirt",
   "item.createcraft.hardened_dirt_plate": "Hardened Dirt Plate",
+  "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
   "item.createcraft.dir_plate_i": "Dirt Plate I",
   "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
   "advancements.break_dirt.descr": "Break a piece of dirt.",

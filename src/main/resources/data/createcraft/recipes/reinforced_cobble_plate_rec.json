@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:cobblestone"
+    },
+    "1": {
+      "item": "createcraft:hardened_dirt_plate"
+    },
+    "2": {
+      "item": "minecraft:cobblestone"
+    },
+    "3": {
+      "item": "createcraft:hardened_dirt_plate"
+    },
+    "4": {
+      "item": "createcraft:hardened_dirt_block"
+    },
+    "5": {
+      "item": "createcraft:hardened_dirt_plate"
+    },
+    "6": {
+      "item": "minecraft:cobblestone"
+    },
+    "7": {
+      "item": "createcraft:hardened_dirt_plate"
+    },
+    "8": {
+      "item": "minecraft:cobblestone"
+    }
+  },
+  "result": {
+    "item": "createcraft:reinforced_cobble_plate",
+    "count": 2
+  }
+}
