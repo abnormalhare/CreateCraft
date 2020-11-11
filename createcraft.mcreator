@@ -126,14 +126,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_ii"
+    },
+    {
+      "name": "DirtPlateIIRecipe",
+      "type": "recipe",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ii_recipe"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
+      "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",
       "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
