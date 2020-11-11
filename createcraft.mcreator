@@ -162,14 +162,23 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_iii"
+    },
+    {
+      "name": "ReinforcedCobblePlateAdv",
+      "type": "achievement",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_cobble_plate_adv"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
+      "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",
       "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
@@ -179,10 +188,13 @@
       "item.createcraft.hardened_dirt_plate": "Hardened Dirt Plate",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
       "item.createcraft.dir_plate_i": "Dirt Plate I",
+      "item.createcraft.dirt_plate_iii": "Dirt Plate III",
       "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
       "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
-      "itemGroup.tabcreate_craft": "Create Craft"
+      "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
+      "itemGroup.tabcreate_craft": "Create Craft",
+      "advancements.reinforced_cobble_plate_adv.title": "The Flatstones"
     }
   },
   "workspaceSettings": {
