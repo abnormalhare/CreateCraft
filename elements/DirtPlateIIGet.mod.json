@@ -15,7 +15,7 @@
     "rewardLoot": [],
     "rewardRecipes": [],
     "rewardFunction": "No function",
-    "rewardXP": 1,
+    "rewardXP": 10,
     "achievementType": "task",
     "parent": {
       "value": "CUSTOM:DirtPlateAdv"

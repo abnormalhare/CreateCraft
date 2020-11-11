@@ -31,7 +31,7 @@
     }
   },
   "rewards": {
-    "experience": 1
+    "experience": 15
   },
   "parent": "createcraft:reinforced_dirt_block_adv"
 }
