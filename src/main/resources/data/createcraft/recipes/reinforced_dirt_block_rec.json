@@ -1,0 +1,30 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1 ",
+    "345",
+    " 7 "
+  ],
+  "key": {
+    "1": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "3": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "4": {
+      "item": "minecraft:dirt"
+    },
+    "5": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "7": {
+      "item": "createcraft:dir_plate_i"
+    }
+  },
+  "result": {
+    "item": "createcraft:reinforced_dirt_block",
+    "count": 1
+  }
+}

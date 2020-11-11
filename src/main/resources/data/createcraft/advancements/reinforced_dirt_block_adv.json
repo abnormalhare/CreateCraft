@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "createcraft:reinforced_dirt_block"
+    },
+    "title": {
+      "translate": "advancements.reinforced_dirt_block_adv.title"
+    },
+    "description": {
+      "translate": "advancements.reinforced_dirt_block_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "reinforced_dirt_block_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "createcraft:reinforced_dirt_block",
+            "count": {
+              "min": 1,
+              "max": 23984
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 15
+  },
+  "parent": "createcraft:dirt_plate_adv"
+}

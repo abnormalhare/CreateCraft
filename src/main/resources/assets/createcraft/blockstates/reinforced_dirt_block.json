@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createcraft:block/reinforced_dirt_block"
+    }
+  }
+}

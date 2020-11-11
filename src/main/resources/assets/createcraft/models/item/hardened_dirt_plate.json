@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "createcraft:items/266df7ab6322509273a9cddeeee5a3e7_1"
+  }
+}
