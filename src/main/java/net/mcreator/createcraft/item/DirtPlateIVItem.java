@@ -7,21 +7,21 @@ import net.minecraft.world.World;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.ItemStack;
+import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
-import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
 import net.mcreator.createcraft.CreatecraftModElements;
 
 import java.util.List;
 
 @CreatecraftModElements.ModElement.Tag
-public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
-	@ObjectHolder("createcraft:dirt_plate_ii")
+public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
+	@ObjectHolder("createcraft:dirt_plate_iv")
 	public static final Item block = null;
-	public DirtPlateIIItem(CreatecraftModElements instance) {
-		super(instance, 12);
+	public DirtPlateIVItem(CreatecraftModElements instance) {
+		super(instance, 18);
 	}
 
 	@Override
@@ -30,8 +30,8 @@ public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
-			setRegistryName("dirt_plate_ii");
+			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			setRegistryName("dirt_plate_iv");
 		}
 
 		@Override
@@ -52,7 +52,7 @@ public class DirtPlateIIItem extends CreatecraftModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("A compressed dirt plate."));
+			list.add(new StringTextComponent("Extremely compressed dirt plate."));
 		}
 	}
 }

@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dirtplateii",
+    "texture": "dirtplateiv",
     "customModelName": "Normal",
-    "name": "Dirt Plate II",
+    "name": "Dirt Plate IV",
     "creativeTab": {
-      "value": "CUSTOM:CreateCraft"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -20,7 +20,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "A compressed dirt plate."
+      "Extremely compressed dirt plate."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
