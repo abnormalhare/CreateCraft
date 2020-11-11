@@ -117,6 +117,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hardened_dirt_block_rec"
+    },
+    {
+      "name": "ReinforcedCobblePlate",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_cobble_plate"
     }
   ],
   "variable_elements": [],
@@ -131,6 +140,7 @@
       "advancements.dirt_plate_adv.descr": "Make a dirt plate for many definitely very useful things.",
       "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.hardened_dirt_plate": "Hardened Dirt Plate",
+      "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
       "item.createcraft.dir_plate_i": "Dirt Plate I",
       "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
