@@ -31,7 +31,7 @@
     }
   },
   "rewards": {
-    "experience": 1
+    "experience": 10
   },
   "parent": "createcraft:dirt_plate_adv"
 }

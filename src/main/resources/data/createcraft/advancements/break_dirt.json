@@ -31,7 +31,7 @@
     }
   },
   "rewards": {
-    "experience": 10
+    "experience": 3
   },
   "parent": "minecraft:story/root"
 }

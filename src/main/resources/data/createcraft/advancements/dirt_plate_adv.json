@@ -31,7 +31,7 @@
     }
   },
   "rewards": {
-    "experience": 1
+    "experience": 5
   },
   "parent": "createcraft:break_dirt"
 }

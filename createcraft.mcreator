@@ -200,15 +200,6 @@
       "registry_name": "reinforced_cobble_plate_adv"
     },
     {
-      "name": "ReinforcedCobblestoneBlock",
-      "type": "block",
-      "sortid": 18,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "reinforced_cobblestone_block"
-    },
-    {
       "name": "ReinforcedDirtPick",
       "type": "tool",
       "sortid": 19,
@@ -234,6 +225,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_dirt_pick_rec"
+    },
+    {
+      "name": "ReinforcedCobblestoneBlock",
+      "type": "block",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_cobblestone_block"
+    },
+    {
+      "name": "DirtPlateIV",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iv"
     }
   ],
   "variable_elements": [],
