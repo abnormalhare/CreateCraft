@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "1": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "2": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "3": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "4": {
+      "item": "minecraft:brown_dye"
+    },
+    "5": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "6": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "7": {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    "8": {
+      "item": "createcraft:dirt_plate_vii"
+    }
+  },
+  "result": {
+    "item": "createcraft:dirt_plate_viii",
+    "count": 1
+  }
+}

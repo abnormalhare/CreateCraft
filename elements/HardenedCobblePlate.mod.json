@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dirtplateii",
+    "texture": "hardenedcobbleplatepic",
     "customModelName": "Normal",
-    "name": "Dirt Plate II",
+    "name": "Hardened Cobble Plate",
     "creativeTab": {
       "value": "CUSTOM:CreateCraft"
     },
@@ -19,9 +19,7 @@
     "damageOnCrafting": false,
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
-    "specialInfo": [
-      "A red dirt plate."
-    ],
+    "specialInfo": [],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
     "inventorySize": 9,

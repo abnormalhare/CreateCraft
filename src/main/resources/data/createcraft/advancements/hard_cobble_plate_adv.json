@@ -1,0 +1,36 @@
+{
+  "display": {
+    "icon": {
+      "item": "createcraft:unknown_element"
+    },
+    "title": {
+      "translate": "advancements.hard_cobble_plate_adv.title"
+    },
+    "description": {
+      "translate": "advancements.hard_cobble_plate_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hard_cobble_plate_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "createcraft:unknown_element",
+            "count": {
+              "min": 1,
+              "max": 5447
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  }
+}

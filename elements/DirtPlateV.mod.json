@@ -3,11 +3,11 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dirtplateii",
+    "texture": "dirtplatev",
     "customModelName": "Normal",
-    "name": "Dirt Plate II",
+    "name": "Dirt Plate V",
     "creativeTab": {
-      "value": "CUSTOM:CreateCraft"
+      "value": "MISC"
     },
     "stackSize": 64,
     "enchantability": 0,
@@ -20,7 +20,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "A red dirt plate."
+      "A green dirt plate."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

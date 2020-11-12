@@ -263,6 +263,15 @@
       "registry_name": "dirt_stick_rec"
     },
     {
+      "name": "ChocolateShards",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_shards"
+    },
+    {
       "name": "ChocolateBlock",
       "type": "block",
       "sortid": 23,
@@ -272,13 +281,193 @@
       "registry_name": "chocolate_block"
     },
     {
-      "name": "ChocolateShards",
+      "name": "DirtPlateX",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_x"
+    },
+    {
+      "name": "HardCobblePlateAdv",
+      "type": "achievement",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hard_cobble_plate_adv"
+    },
+    {
+      "name": "HardenedCobblePlateRec",
+      "type": "recipe",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_cobble_plate_rec"
+    },
+    {
+      "name": "DirtPlateV",
+      "type": "item",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_v"
+    },
+    {
+      "name": "DirtPlateVI",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vi"
+    },
+    {
+      "name": "HardenedCobblePlate",
       "type": "item",
       "sortid": 24,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "chocolate_shards"
+      "registry_name": "hardened_cobble_plate"
+    },
+    {
+      "name": "DirtPlateVII",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vii"
+    },
+    {
+      "name": "ReinforcedDirtPickaxeAdv",
+      "type": "achievement",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_dirt_pickaxe_adv"
+    },
+    {
+      "name": "DirtPlateIXRec",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ix_rec"
+    },
+    {
+      "name": "EpicDirtPlate",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epic_dirt_plate"
+    },
+    {
+      "name": "DirtPlateVIII",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_viii"
+    },
+    {
+      "name": "DirtPlateVIIIRec",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_viii_rec"
+    },
+    {
+      "name": "DirtPlateIX",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ix"
+    },
+    {
+      "name": "DirtPlateXRec",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_x_rec"
+    },
+    {
+      "name": "DirtPlateVIIRec",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vii_rec"
+    },
+    {
+      "name": "DirtPlateVRec",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_v_rec"
+    },
+    {
+      "name": "DirtPlateIVRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iv_recipe"
+    },
+    {
+      "name": "DirtPlateIVGet",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iv_get"
+    },
+    {
+      "name": "EpicDirtPlateRec",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epic_dirt_plate_rec"
+    },
+    {
+      "name": "DirtPlateVIRec",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vi_rec"
+    },
+    {
+      "name": "ReinCobbleBlockAdv",
+      "type": "achievement",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rein_cobble_block_adv"
     }
   ],
   "variable_elements": [],
@@ -289,14 +478,12 @@
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
-      "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
+      "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.dir_plate_i": "Dirt Plate I",
-      "block.createcraft.chocolate_block": "Chocolate Block",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
       "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
-      "item.createcraft.chocolate_shards": "Chocolate shards",
       "advancements.reinforced_cobble_plate_adv.title": "The Flatstones",
       "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",

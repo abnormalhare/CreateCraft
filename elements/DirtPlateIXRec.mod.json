@@ -10,37 +10,37 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "Items.DYE#11"
+        "value": "Items.DYE#12"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       },
       {
-        "value": "CUSTOM:DirtPlateII"
+        "value": "CUSTOM:DirtPlateVIII"
       }
     ],
     "recipeReturnStack": {
-      "value": "CUSTOM:DirtPlateIII"
+      "value": "CUSTOM:DirtPlateIX"
     },
-    "name": "dirt_plate_iii_recipe",
+    "name": "dirt_plate_ix_rec",
     "namespace": "mod"
   }
 }
