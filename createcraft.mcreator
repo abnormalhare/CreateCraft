@@ -450,6 +450,60 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_x_rec"
+    },
+    {
+      "name": "DirtPlateXI",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xi"
+    },
+    {
+      "name": "DirtPlateXIRec",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xi_rec"
+    },
+    {
+      "name": "DirtPlateXII",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xii"
+    },
+    {
+      "name": "DirtPlateXIIRec",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xii_rec"
+    },
+    {
+      "name": "DirtPlateXIII",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiii"
+    },
+    {
+      "name": "DirtPlateXIIIRec",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiii_rec"
     }
   ],
   "variable_elements": [],
@@ -459,10 +513,11 @@
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
-      "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
+      "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
-      "advancements.break_dirt.title": "Break Dirt",
+      "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
+      "advancements.break_dirt.title": "Break Dirt",
       "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
       "item.createcraft.dir_plate_i": "Dirt Plate I",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
@@ -472,6 +527,7 @@
       "advancements.reinforced_cobble_plate_adv.title": "The Flatstones",
       "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",
+      "item.createcraft.dirt_plate_xii": "Dirt Plate XII",
       "item.createcraft.dirt_plate_v": "Dirt Plate V",
       "item.createcraft.dirt_plate_vii": "Dirt Plate VII",
       "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
@@ -482,6 +538,7 @@
       "item.createcraft.hardened_dirt_plate": "Hardened Dirt Plate",
       "item.createcraft.dirt_plate_iii": "Dirt Plate III",
       "item.createcraft.dirt_stick": "Dirt Stick",
+      "item.createcraft.dirt_plate_xi": "Dirt Plate XI",
       "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
       "item.createcraft.dirt_plate_vi": "Dirt Plate VI",
       "item.createcraft.dirt_plate_iv": "Dirt Plate IV",
