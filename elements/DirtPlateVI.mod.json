@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dirtplateiv",
+    "texture": "dirtplatevi",
     "customModelName": "Normal",
-    "name": "Dirt Plate IV",
+    "name": "Dirt Plate VI",
     "creativeTab": {
       "value": "MISC"
     },
@@ -20,7 +20,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "Extremely compressed dirt plates."
+      "An orange dirt plate."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",
