@@ -3,25 +3,19 @@ package net.mcreator.createcraft.item;
 
 import net.minecraftforge.registries.ObjectHolder;
 
-import net.minecraft.world.World;
-import net.minecraft.util.text.StringTextComponent;
-import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.ItemStack;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
-import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
 import net.mcreator.createcraft.CreatecraftModElements;
 
-import java.util.List;
-
 @CreatecraftModElements.ModElement.Tag
-public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
-	@ObjectHolder("createcraft:dirt_plate_iv")
+public class ChocolateShardsItem extends CreatecraftModElements.ModElement {
+	@ObjectHolder("createcraft:chocolate_shards")
 	public static final Item block = null;
-	public DirtPlateIVItem(CreatecraftModElements instance) {
-		super(instance, 18);
+	public ChocolateShardsItem(CreatecraftModElements instance) {
+		super(instance, 24);
 	}
 
 	@Override
@@ -30,8 +24,8 @@ public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
-			setRegistryName("dirt_plate_iv");
+			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64));
+			setRegistryName("chocolate_shards");
 		}
 
 		@Override
@@ -47,12 +41,6 @@ public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
 		@Override
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
-		}
-
-		@Override
-		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
-			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Extremely compressed dirt plate."));
 		}
 	}
 }

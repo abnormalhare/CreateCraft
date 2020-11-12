@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "createcraft:blocks/chocolate_block",
+    "particle": "createcraft:blocks/chocolate_block"
+  }
+}
