@@ -17,11 +17,11 @@ import net.mcreator.createcraft.CreatecraftModElements;
 import java.util.List;
 
 @CreatecraftModElements.ModElement.Tag
-public class DirtPlateVItem extends CreatecraftModElements.ModElement {
-	@ObjectHolder("createcraft:dirt_plate_v")
+public class DirtPlateIXItem extends CreatecraftModElements.ModElement {
+	@ObjectHolder("createcraft:dirt_plate_ix")
 	public static final Item block = null;
-	public DirtPlateVItem(CreatecraftModElements instance) {
-		super(instance, 26);
+	public DirtPlateIXItem(CreatecraftModElements instance) {
+		super(instance, 34);
 	}
 
 	@Override
@@ -31,7 +31,7 @@ public class DirtPlateVItem extends CreatecraftModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
-			setRegistryName("dirt_plate_v");
+			setRegistryName("dirt_plate_ix");
 		}
 
 		@Override
@@ -52,7 +52,7 @@ public class DirtPlateVItem extends CreatecraftModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("A green dirt plate."));
+			list.add(new StringTextComponent("A light blue dirt plate."));
 		}
 	}
 }

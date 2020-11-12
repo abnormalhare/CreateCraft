@@ -3,9 +3,9 @@
   "_type": "item",
   "definition": {
     "renderType": 0,
-    "texture": "dirtplatev",
+    "texture": "dirtplateix",
     "customModelName": "Normal",
-    "name": "Dirt Plate V",
+    "name": "Dirt Plate IX",
     "creativeTab": {
       "value": "MISC"
     },
@@ -20,7 +20,7 @@
     "enableMeleeDamage": false,
     "damageVsEntity": 0.0,
     "specialInfo": [
-      "A green dirt plate."
+      "A light blue dirt plate."
     ],
     "hasGlow": false,
     "guiBoundTo": "<NONE>",

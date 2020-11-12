@@ -378,6 +378,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_vii_rec"
+    },
+    {
+      "name": "DirtPlateVIII",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_viii"
+    },
+    {
+      "name": "DirtPlateVIIIRec",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_viii_rec"
+    },
+    {
+      "name": "DirtPlateIX",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ix"
+    },
+    {
+      "name": "DirtPlateIXRec",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ix_rec"
     }
   ],
   "variable_elements": [],
@@ -388,10 +424,11 @@
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
-      "advancements.break_dirt.title": "Break Dirt",
+      "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
-      "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
+      "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.dir_plate_i": "Dirt Plate I",
+      "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
       "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
@@ -413,6 +450,7 @@
       "item.createcraft.dirt_plate_iv": "Dirt Plate IV",
       "item.createcraft.hardened_cobble_plate": "Hardened Cobble Plate",
       "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
+      "item.createcraft.dirt_plate_ix": "Dirt Plate IX",
       "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
       "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",
       "itemGroup.tabcreate_craft": "Create Craft"
