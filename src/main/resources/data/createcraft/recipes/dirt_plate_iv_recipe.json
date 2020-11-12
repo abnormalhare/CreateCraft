@@ -8,31 +8,31 @@
   ],
   "key": {
     "0": {
-      "item": "createcraft:reinforced_cobblestone_block"
+      "item": "createcraft:dirt_plate_iii"
     },
     "1": {
-      "item": "minecraft:blue_dye"
+      "item": "createcraft:dirt_plate_iii"
     },
     "2": {
-      "item": "createcraft:reinforced_cobblestone_block"
+      "item": "createcraft:dirt_plate_iii"
     },
     "3": {
       "item": "createcraft:dirt_plate_iii"
     },
     "4": {
-      "item": "createcraft:hardened_dirt_block"
+      "item": "minecraft:blue_dye"
     },
     "5": {
       "item": "createcraft:dirt_plate_iii"
     },
     "6": {
-      "item": "createcraft:reinforced_cobblestone_block"
+      "item": "createcraft:dirt_plate_iii"
     },
     "7": {
       "item": "createcraft:dirt_plate_iii"
     },
     "8": {
-      "item": "createcraft:reinforced_cobblestone_block"
+      "item": "createcraft:dirt_plate_iii"
     }
   },
   "result": {

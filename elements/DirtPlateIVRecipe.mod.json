@@ -10,31 +10,31 @@
     "recipeShapeless": false,
     "recipeSlots": [
       {
-        "value": "CUSTOM:ReinforcedCobblestoneBlock"
+        "value": "CUSTOM:DirtPlateIII"
+      },
+      {
+        "value": "CUSTOM:DirtPlateIII"
+      },
+      {
+        "value": "CUSTOM:DirtPlateIII"
+      },
+      {
+        "value": "CUSTOM:DirtPlateIII"
       },
       {
         "value": "Items.DYE#18"
       },
       {
-        "value": "CUSTOM:ReinforcedCobblestoneBlock"
+        "value": "CUSTOM:DirtPlateIII"
       },
       {
         "value": "CUSTOM:DirtPlateIII"
       },
       {
-        "value": "CUSTOM:HardenedDirtBlock"
-      },
-      {
         "value": "CUSTOM:DirtPlateIII"
       },
       {
-        "value": "CUSTOM:ReinforcedCobblestoneBlock"
-      },
-      {
         "value": "CUSTOM:DirtPlateIII"
-      },
-      {
-        "value": "CUSTOM:ReinforcedCobblestoneBlock"
       }
     ],
     "recipeReturnStack": {
