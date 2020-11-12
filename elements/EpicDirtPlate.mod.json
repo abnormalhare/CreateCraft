@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Epic Dirt Plate",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CreateCraft"
     },
     "stackSize": 64,
     "enchantability": 0,
