@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "createcraft:reinforced_dirt_pick"
+    },
+    "title": {
+      "translate": "advancements.reinforced_dirt_pickaxe_adv.title"
+    },
+    "description": {
+      "translate": "advancements.reinforced_dirt_pickaxe_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "reinforced_dirt_pickaxe_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "createcraft:reinforced_dirt_pick",
+            "count": {
+              "min": 1,
+              "max": 213
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "createcraft:dirt_plate_adv"
+}
