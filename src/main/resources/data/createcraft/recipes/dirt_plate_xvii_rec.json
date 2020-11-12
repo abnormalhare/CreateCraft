@@ -8,35 +8,35 @@
   ],
   "key": {
     "0": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "1": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "2": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "3": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "4": {
       "item": "minecraft:white_dye"
     },
     "5": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "6": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "7": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     },
     "8": {
-      "item": "createcraft:unknown_element"
+      "item": "createcraft:dirt_plate_xvi"
     }
   },
   "result": {
-    "item": "createcraft:unknown_element",
+    "item": "createcraft:dirt_plate_xvii",
     "count": 1
   }
 }
