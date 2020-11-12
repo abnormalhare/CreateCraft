@@ -7,21 +7,21 @@ import net.minecraft.world.World;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
 import net.mcreator.createcraft.CreatecraftModElements;
 
 import java.util.List;
 
 @CreatecraftModElements.ModElement.Tag
-public class DirtPlateXIIIItem extends CreatecraftModElements.ModElement {
-	@ObjectHolder("createcraft:dirt_plate_xiii")
+public class DirtLighterItem extends CreatecraftModElements.ModElement {
+	@ObjectHolder("createcraft:dirt_lighter")
 	public static final Item block = null;
-	public DirtPlateXIIIItem(CreatecraftModElements instance) {
-		super(instance, 44);
+	public DirtLighterItem(CreatecraftModElements instance) {
+		super(instance, 55);
 	}
 
 	@Override
@@ -30,8 +30,8 @@ public class DirtPlateXIIIItem extends CreatecraftModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
-			setRegistryName("dirt_plate_xiii");
+			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(1));
+			setRegistryName("dirt_lighter");
 		}
 
 		@Override
@@ -52,7 +52,7 @@ public class DirtPlateXIIIItem extends CreatecraftModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("A light gray dirt plate."));
+			list.add(new StringTextComponent("Could light a kind of portal...?"));
 		}
 	}
 }
