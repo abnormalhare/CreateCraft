@@ -270,6 +270,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_dirt_pickaxe_adv"
+    },
+    {
+      "name": "DirtPlateIVRecipe",
+      "type": "recipe",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iv_recipe"
+    },
+    {
+      "name": "DirtPlateIVGet",
+      "type": "achievement",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_iv_get"
     }
   ],
   "variable_elements": [],
@@ -280,10 +298,10 @@
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
-      "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
       "advancements.break_dirt.title": "Break Dirt",
-      "item.createcraft.dir_plate_i": "Dirt Plate I",
+      "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
       "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
+      "item.createcraft.dir_plate_i": "Dirt Plate I",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
       "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
@@ -301,9 +319,11 @@
       "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
       "item.createcraft.dirt_plate_iv": "Dirt Plate IV",
       "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
+      "advancements.dirt_plate_iv_get.descr": "Craft a Dirt Plate IV",
       "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
       "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",
-      "itemGroup.tabcreate_craft": "Create Craft"
+      "itemGroup.tabcreate_craft": "Create Craft",
+      "advancements.dirt_plate_iv_get.title": "Compresception"
     }
   },
   "workspaceSettings": {
