@@ -614,13 +614,22 @@
       "registry_name": "dirt_d_frame"
     },
     {
-      "name": "DirtLighter",
-      "type": "item",
-      "sortid": 55,
+      "name": "DirtLighterRec",
+      "type": "recipe",
+      "sortid": 56,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_lighter"
+      "registry_name": "dirt_lighter_rec"
+    },
+    {
+      "name": "DirtDimension",
+      "type": "dimension",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_dimension"
     }
   ],
   "variable_elements": [],
@@ -628,13 +637,13 @@
   "language_map": {
     "it_it": {
       "item.createcraft.dirt_plate_ii": "Piastra di terra II",
-      "block.createcraft.hardened_dirt_block": "Terra indurita",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
-      "item.createcraft.dirt_lighter": "Dirt Lighter",
+      "block.createcraft.hardened_dirt_block": "Terra indurita",
       "advancements.dirt_plate_adv.title": "Terra piatta",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
       "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
+      "item.createcraft.dirt_dimension": "Dirt Dimension Portal Igniter",
       "advancements.break_dirt.title": "La terra è mia!",
       "item.createcraft.reinforced_cobble_plate": "Piccone di pietrisco rinforzato",
       "item.createcraft.dir_plate_i": "Piastra di terra I",
@@ -675,7 +684,6 @@
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
-      "item.createcraft.dirt_lighter": "Dirt Lighter",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.break_dirt.title": "Break Dirt",
@@ -699,6 +707,7 @@
       "advancements.dirt_plate_iv_get.title": "Compresception",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
       "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
+      "item.createcraft.dirt_dimension": "Dirt Dimension Portal Igniter",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
       "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
       "item.createcraft.dirt_plate_xvi": "Dirt Plate XVI",
