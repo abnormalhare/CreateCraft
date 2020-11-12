@@ -26,9 +26,7 @@
   "item.createcraft.dirt_plate_vi": "Dirt Plate VI",
   "item.createcraft.dirt_plate_iv": "Dirt Plate IV",
   "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
-  "advancements.dirt_plate_iv_get.descr": "Craft a Dirt Plate IV",
   "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
   "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",
-  "itemGroup.tabcreate_craft": "Create Craft",
-  "advancements.dirt_plate_iv_get.title": "Compresception"
+  "itemGroup.tabcreate_craft": "Create Craft"
 }
