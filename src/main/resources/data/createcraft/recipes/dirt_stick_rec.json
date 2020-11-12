@@ -1,0 +1,20 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "1": {
+      "item": "createcraft:dir_plate_i"
+    }
+  },
+  "result": {
+    "item": "createcraft:dirt_stick",
+    "count": 4
+  }
+}

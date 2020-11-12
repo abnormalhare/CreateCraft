@@ -1,0 +1,46 @@
+{
+  "_fv": 10,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:ReinforcedCobblePlate"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCobblePlate"
+      },
+      {
+        "value": "CUSTOM:HardenedDirtBlock"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCobblePlate"
+      },
+      {
+        "value": "Blocks.COBBLESTONE"
+      },
+      {
+        "value": "CUSTOM:ReinforcedCobblePlate"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:ReinforcedCobblestoneBlock"
+    },
+    "name": "reinforced_cobblestone_block_rec",
+    "namespace": "mod"
+  }
+}

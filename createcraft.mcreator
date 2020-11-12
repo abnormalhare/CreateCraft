@@ -243,6 +243,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_plate_iv"
+    },
+    {
+      "name": "ReinforcedCobblestoneBlockRec",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_cobblestone_block_rec"
+    },
+    {
+      "name": "DirtStickRec",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_stick_rec"
     }
   ],
   "variable_elements": [],
@@ -253,8 +271,8 @@
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
-      "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
+      "advancements.break_dirt.title": "Break Dirt",
       "item.createcraft.dir_plate_i": "Dirt Plate I",
       "advancements.break_dirt.descr": "Break a piece of dirt.",
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
@@ -270,6 +288,7 @@
       "item.createcraft.dirt_plate_iii": "Dirt Plate III",
       "item.createcraft.dirt_stick": "Dirt Stick",
       "advancements.hardened_dirt_plate_adv.descr": "Use cobble and the recipes you made to get a Hardened Dirt Plate",
+      "item.createcraft.dirt_plate_iv": "Dirt Plate IV",
       "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
       "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
       "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",

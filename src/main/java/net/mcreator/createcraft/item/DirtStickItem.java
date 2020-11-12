@@ -1,12 +1,19 @@
 
 package net.mcreator.createcraft.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
+import net.mcreator.createcraft.CreatecraftModElements;
+
 @CreatecraftModElements.ModElement.Tag
 public class DirtStickItem extends CreatecraftModElements.ModElement {
-
 	@ObjectHolder("createcraft:dirt_stick")
 	public static final Item block = null;
-
 	public DirtStickItem(CreatecraftModElements instance) {
 		super(instance, 20);
 	}
@@ -15,9 +22,7 @@ public class DirtStickItem extends CreatecraftModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
 			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
 			setRegistryName("dirt_stick");
@@ -37,7 +42,5 @@ public class DirtStickItem extends CreatecraftModElements.ModElement {
 		public float getDestroySpeed(ItemStack par1ItemStack, BlockState par2Block) {
 			return 1F;
 		}
-
 	}
-
 }
