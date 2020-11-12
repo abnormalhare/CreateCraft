@@ -1,0 +1,37 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "createcraft:dir_plate_i"
+    },
+    {
+      "item": "createcraft:dirt_plate_ii"
+    },
+    {
+      "item": "createcraft:dirt_plate_iii"
+    },
+    {
+      "item": "createcraft:dirt_plate_iv"
+    },
+    {
+      "item": "createcraft:dirt_plate_v"
+    },
+    {
+      "item": "createcraft:dirt_plate_vi"
+    },
+    {
+      "item": "createcraft:dirt_plate_vii"
+    },
+    {
+      "item": "createcraft:dirt_plate_viii"
+    },
+    {
+      "item": "createcraft:dirt_plate_ix"
+    }
+  ],
+  "result": {
+    "item": "createcraft:epic_dirt_plate",
+    "count": 1
+  }
+}

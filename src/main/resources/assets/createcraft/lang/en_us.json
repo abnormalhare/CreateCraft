@@ -2,12 +2,12 @@
   "item.createcraft.dirt_plate_ii": "Dirt Plate II",
   "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
   "advancements.dirt_plate_adv.title": "Flat Dirt",
-  "advancements.dirt_plate_ii_get.title": "Better Dirt",
   "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
-  "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
+  "advancements.dirt_plate_ii_get.title": "Better Dirt",
   "advancements.break_dirt.title": "Break Dirt",
-  "item.createcraft.dir_plate_i": "Dirt Plate I",
+  "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
   "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
+  "item.createcraft.dir_plate_i": "Dirt Plate I",
   "advancements.break_dirt.descr": "Break a piece of dirt.",
   "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
   "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
@@ -18,6 +18,7 @@
   "item.createcraft.dirt_plate_v": "Dirt Plate V",
   "item.createcraft.dirt_plate_vii": "Dirt Plate VII",
   "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
+  "item.createcraft.dirt_plate_x": "Dirt Plate X",
   "advancements.dirt_plate_iii_get.descr": "Craft a Dirt Plate III",
   "advancements.dirt_plate_adv.descr": "Make a dirt plate for many definitely very useful things.",
   "advancements.dirt_plate_iii_get.title": "Sunny Dirt",
@@ -32,5 +33,6 @@
   "item.createcraft.dirt_plate_ix": "Dirt Plate IX",
   "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
   "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",
-  "itemGroup.tabcreate_craft": "Create Craft"
+  "itemGroup.tabcreate_craft": "Create Craft",
+  "item.createcraft.epic_dirt_plate": "Epic Dirt Plate"
 }
