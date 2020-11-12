@@ -52,7 +52,7 @@ public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("Extremely compressed dirt plates."));
+			list.add(new StringTextComponent("A blue dirt plate."));
 		}
 	}
 }

@@ -360,11 +360,282 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_dirt_shovel"
+    },
+    {
+      "name": "DirtPlateX",
+      "type": "item",
+      "sortid": 38,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_x"
+    },
+    {
+      "name": "DirtPlateXV",
+      "type": "item",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xv"
+    },
+    {
+      "name": "DirtPlateXI",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xi"
+    },
+    {
+      "name": "DirtPlateXIIRec",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xii_rec"
+    },
+    {
+      "name": "DirtPlateXIII",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiii"
+    },
+    {
+      "name": "DirtPlateVIII",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_viii"
+    },
+    {
+      "name": "DirtPlateXIVRec",
+      "type": "recipe",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiv_rec"
+    },
+    {
+      "name": "DirtPlateXRec",
+      "type": "recipe",
+      "sortid": 39,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_x_rec"
+    },
+    {
+      "name": "ChocolateShards",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_shards"
+    },
+    {
+      "name": "DirtPlateVIIRec",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vii_rec"
+    },
+    {
+      "name": "DirtPlateXVRec",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xv_rec"
+    },
+    {
+      "name": "DirtPlateXIIIRec",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiii_rec"
+    },
+    {
+      "name": "ChocolateBlock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_block"
+    },
+    {
+      "name": "DirtPlateXVIIRec",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvii_rec"
+    },
+    {
+      "name": "DirtPlateVIRec",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vi_rec"
+    },
+    {
+      "name": "DirtPlateXVII",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvii"
+    },
+    {
+      "name": "DirtPlateXII",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xii"
+    },
+    {
+      "name": "DirtPlateXVIRec",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvi_rec"
+    },
+    {
+      "name": "DirtPlateVII",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vii"
+    },
+    {
+      "name": "DirtPlateIXRec",
+      "type": "recipe",
+      "sortid": 35,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ix_rec"
+    },
+    {
+      "name": "EpicDirtPlate",
+      "type": "item",
+      "sortid": 36,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epic_dirt_plate"
+    },
+    {
+      "name": "DirtPlateVIIIRec",
+      "type": "recipe",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_viii_rec"
+    },
+    {
+      "name": "DirtPlateIX",
+      "type": "item",
+      "sortid": 34,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_ix"
+    },
+    {
+      "name": "DirtPlateXVI",
+      "type": "item",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvi"
+    },
+    {
+      "name": "EpicDirtPlateRec",
+      "type": "recipe",
+      "sortid": 37,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "epic_dirt_plate_rec"
+    },
+    {
+      "name": "DirtPlateXIV",
+      "type": "item",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiv"
+    },
+    {
+      "name": "DirtPlateXIRec",
+      "type": "recipe",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xi_rec"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
+    "it_it": {
+      "item.createcraft.dirt_plate_ii": "Piastra di terra II",
+      "block.createcraft.hardened_dirt_block": "Terra indurita",
+      "advancements.dirt_plate_adv.title": "Terra piatta",
+      "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
+      "item.createcraft.reinforced_cobble_plate": "Piccone di pietrisco rinforzato",
+      "advancements.break_dirt.title": "La terra è mia!",
+      "item.createcraft.dir_plate_i": "Piastra di terra I",
+      "advancements.break_dirt.descr": "Distruggi un blocco di terra.",
+      "advancements.dirt_plate_ii_get.descr": "Ottieni una Piastra di terra II",
+      "advancements.reinforced_cobble_plate_adv.descr": "Ottieni una piastra di pietrisco rinforzata.",
+      "advancements.reinforced_cobble_plate_adv.title": "Piedipiatti",
+      "block.createcraft.reinforced_dirt_block": "Terra rinforzata",
+      "advancements.reinforced_dirt_block_adv.descr": "Che blocco interessante!",
+      "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
+      "advancements.dirt_plate_iii_get.descr": "Ottieni una Piastra di terra III",
+      "advancements.dirt_plate_adv.descr": "Ottieni un\u0027utilissima piastra di terra.",
+      "advancements.dirt_plate_iii_get.title": "Dalla terra alla terra",
+      "item.createcraft.hardened_dirt_plate": "Piastra di terra indurita",
+      "item.createcraft.dirt_plate_iii": "Piastra di terra III",
+      "item.createcraft.dirt_stick": "Bastone di terra",
+      "advancements.hardened_dirt_plate_adv.descr": "Ottieni una piastra di terra indurita a partire dal pietrisco.",
+      "item.createcraft.dirt_plate_iv": "Piastra di terra IV",
+      "advancements.reinforced_dirt_block_adv.title": "Più duro della terra...",
+      "block.createcraft.reinforced_cobblestone_block": "Pietrisco rinforzato",
+      "item.createcraft.reinforced_dirt_pick": "Piccone di terra rinforzato",
+      "itemGroup.tabcreate_craft": "Create Craft"
+    },
     "en_us": {
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
