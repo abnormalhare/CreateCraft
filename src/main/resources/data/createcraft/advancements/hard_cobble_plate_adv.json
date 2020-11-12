@@ -32,6 +32,5 @@
   },
   "rewards": {
     "experience": 1
-  },
-  "parent": "createcraft:rein_cobble_block_adv"
+  }
 }
