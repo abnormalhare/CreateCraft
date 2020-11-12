@@ -7,7 +7,7 @@
     "customModelName": "Normal",
     "name": "Dirt Plate XVI",
     "creativeTab": {
-      "value": "MISC"
+      "value": "CUSTOM:CreateCraft"
     },
     "stackSize": 64,
     "enchantability": 0,

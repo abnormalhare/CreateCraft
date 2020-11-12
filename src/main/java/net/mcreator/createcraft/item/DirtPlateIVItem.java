@@ -7,11 +7,11 @@ import net.minecraft.world.World;
 import net.minecraft.util.text.StringTextComponent;
 import net.minecraft.util.text.ITextComponent;
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.client.util.ITooltipFlag;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
 import net.mcreator.createcraft.CreatecraftModElements;
 
 import java.util.List;
@@ -30,7 +30,7 @@ public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
 			setRegistryName("dirt_plate_iv");
 		}
 

@@ -353,31 +353,58 @@
       "registry_name": "dirt_plate_vi"
     },
     {
-      "name": "DirtPlateVIRec",
-      "type": "recipe",
+      "name": "ReinforcedDirtShovel",
+      "type": "tool",
       "sortid": 29,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_vi_rec"
+      "registry_name": "reinforced_dirt_shovel"
     },
     {
-      "name": "DirtPlateVII",
+      "name": "DirtPlateX",
       "type": "item",
-      "sortid": 30,
+      "sortid": 38,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_vii"
+      "registry_name": "dirt_plate_x"
     },
     {
-      "name": "DirtPlateVIIRec",
-      "type": "recipe",
-      "sortid": 31,
+      "name": "DirtPlateXV",
+      "type": "item",
+      "sortid": 48,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_vii_rec"
+      "registry_name": "dirt_plate_xv"
+    },
+    {
+      "name": "DirtPlateXI",
+      "type": "item",
+      "sortid": 40,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xi"
+    },
+    {
+      "name": "DirtPlateXIIRec",
+      "type": "recipe",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xii_rec"
+    },
+    {
+      "name": "DirtPlateXIII",
+      "type": "item",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiii"
     },
     {
       "name": "DirtPlateVIII",
@@ -389,22 +416,121 @@
       "registry_name": "dirt_plate_viii"
     },
     {
-      "name": "DirtPlateVIIIRec",
+      "name": "DirtPlateXIVRec",
       "type": "recipe",
-      "sortid": 33,
+      "sortid": 47,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_viii_rec"
+      "registry_name": "dirt_plate_xiv_rec"
     },
     {
-      "name": "DirtPlateIX",
-      "type": "item",
-      "sortid": 34,
+      "name": "DirtPlateXRec",
+      "type": "recipe",
+      "sortid": 39,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_ix"
+      "registry_name": "dirt_plate_x_rec"
+    },
+    {
+      "name": "ChocolateShards",
+      "type": "item",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_shards"
+    },
+    {
+      "name": "DirtPlateVIIRec",
+      "type": "recipe",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vii_rec"
+    },
+    {
+      "name": "DirtPlateXVRec",
+      "type": "recipe",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xv_rec"
+    },
+    {
+      "name": "DirtPlateXIIIRec",
+      "type": "recipe",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xiii_rec"
+    },
+    {
+      "name": "ChocolateBlock",
+      "type": "block",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_block"
+    },
+    {
+      "name": "DirtPlateXVIIRec",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvii_rec"
+    },
+    {
+      "name": "DirtPlateVIRec",
+      "type": "recipe",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vi_rec"
+    },
+    {
+      "name": "DirtPlateXVII",
+      "type": "item",
+      "sortid": 52,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvii"
+    },
+    {
+      "name": "DirtPlateXII",
+      "type": "item",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xii"
+    },
+    {
+      "name": "DirtPlateXVIRec",
+      "type": "recipe",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_xvi_rec"
+    },
+    {
+      "name": "DirtPlateVII",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_plate_vii"
     },
     {
       "name": "DirtPlateIXRec",
@@ -425,139 +551,22 @@
       "registry_name": "epic_dirt_plate"
     },
     {
-      "name": "EpicDirtPlateRec",
+      "name": "DirtPlateVIIIRec",
       "type": "recipe",
-      "sortid": 37,
+      "sortid": 33,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "epic_dirt_plate_rec"
+      "registry_name": "dirt_plate_viii_rec"
     },
     {
-      "name": "DirtPlateX",
+      "name": "DirtPlateIX",
       "type": "item",
-      "sortid": 38,
+      "sortid": 34,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_x"
-    },
-    {
-      "name": "DirtPlateXRec",
-      "type": "recipe",
-      "sortid": 39,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_x_rec"
-    },
-    {
-      "name": "DirtPlateXIII",
-      "type": "item",
-      "sortid": 44,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xiii"
-    },
-    {
-      "name": "DirtPlateXII",
-      "type": "item",
-      "sortid": 42,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xii"
-    },
-    {
-      "name": "DirtPlateXIIIRec",
-      "type": "recipe",
-      "sortid": 45,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xiii_rec"
-    },
-    {
-      "name": "DirtPlateXI",
-      "type": "item",
-      "sortid": 40,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xi"
-    },
-    {
-      "name": "DirtPlateXIRec",
-      "type": "recipe",
-      "sortid": 41,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xi_rec"
-    },
-    {
-      "name": "DirtPlateXIIRec",
-      "type": "recipe",
-      "sortid": 43,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xii_rec"
-    },
-    {
-      "name": "ChocolateShards",
-      "type": "item",
-      "sortid": 24,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chocolate_shards"
-    },
-    {
-      "name": "ChocolateBlock",
-      "type": "block",
-      "sortid": 23,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "chocolate_block"
-    },
-    {
-      "name": "DirtPlateXIV",
-      "type": "item",
-      "sortid": 46,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xiv"
-    },
-    {
-      "name": "DirtPlateXIVRec",
-      "type": "recipe",
-      "sortid": 47,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xiv_rec"
-    },
-    {
-      "name": "DirtPlateXV",
-      "type": "item",
-      "sortid": 48,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xv"
-    },
-    {
-      "name": "DirtPlateXVRec",
-      "type": "recipe",
-      "sortid": 49,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "dirt_plate_xv_rec"
+      "registry_name": "dirt_plate_ix"
     },
     {
       "name": "DirtPlateXVI",
@@ -569,31 +578,31 @@
       "registry_name": "dirt_plate_xvi"
     },
     {
-      "name": "DirtPlateXVIRec",
+      "name": "EpicDirtPlateRec",
       "type": "recipe",
-      "sortid": 51,
+      "sortid": 37,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_xvi_rec"
+      "registry_name": "epic_dirt_plate_rec"
     },
     {
-      "name": "DirtPlateXVII",
+      "name": "DirtPlateXIV",
       "type": "item",
-      "sortid": 52,
+      "sortid": 46,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_xvii"
+      "registry_name": "dirt_plate_xiv"
     },
     {
-      "name": "DirtPlateXVIIRec",
+      "name": "DirtPlateXIRec",
       "type": "recipe",
-      "sortid": 53,
+      "sortid": 41,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_plate_xvii_rec"
+      "registry_name": "dirt_plate_xi_rec"
     },
     {
       "name": "DirtDFrame",
@@ -603,15 +612,6 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_d_frame"
-    },
-    {
-      "name": "ReinforcedDirtShovel",
-      "type": "tool",
-      "sortid": 29,
-      "compiles": true,
-      "locked_code": false,
-      "ids": {},
-      "registry_name": "reinforced_dirt_shovel"
     },
     {
       "name": "DirtLighter",
