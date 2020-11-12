@@ -1,11 +1,12 @@
 {
   "item.createcraft.dirt_plate_ii": "Piastra di terra II",
   "block.createcraft.hardened_dirt_block": "Terra indurita",
+  "block.createcraft.dirt_d_frame": "Dirt D Frame",
   "advancements.dirt_plate_adv.title": "Terra piatta",
   "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
   "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
-  "advancements.break_dirt.title": "La terra Ã¨ mia!",
   "item.createcraft.reinforced_cobble_plate": "Piccone di pietrisco rinforzato",
+  "advancements.break_dirt.title": "La terra Ã¨ mia!",
   "item.createcraft.dir_plate_i": "Piastra di terra I",
   "item.createcraft.dirt_plate_xvi": "Dirt Plate XVI",
   "advancements.break_dirt.descr": "Distruggi un blocco di terra.",
