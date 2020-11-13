@@ -10,7 +10,7 @@
     },
     "portalLuminance": 0.0,
     "portalSound": {
-      "value": "block.portal.ambient"
+      "value": "ambient.cave"
     },
     "igniterName": "Dirt Lighter",
     "igniterTab": {
