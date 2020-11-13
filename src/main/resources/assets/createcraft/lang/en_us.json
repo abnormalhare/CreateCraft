@@ -1,7 +1,7 @@
 {
   "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-  "block.createcraft.dirt_d_frame": "Dirt D Frame",
   "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
+  "block.createcraft.dirt_d_frame": "Dirt D Frame",
   "advancements.dirt_plate_adv.title": "Flat Dirt",
   "advancements.create_craft_adv.title": "Create Craft!",
   "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
@@ -11,8 +11,8 @@
   "item.createcraft.dirt_plate_xii": "Dirt Plate XII",
   "item.createcraft.dirt_plate_v": "Dirt Plate V",
   "item.createcraft.dirt_plate_vii": "Dirt Plate VII",
-  "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
   "item.createcraft.dirt_plate_x": "Dirt Plate X",
+  "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
   "item.createcraft.dirt_plate_xv": "Dirt Plate XV",
   "advancements.hardened_dirt_block_adv.title": "Solid Dirt",
   "advancements.dirt_plate_adv.descr": "Make a dirt plate for many definitely very useful things.",
