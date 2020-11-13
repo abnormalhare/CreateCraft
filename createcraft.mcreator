@@ -619,8 +619,8 @@
   "language_map": {
     "it_it": {
       "item.createcraft.dirt_plate_ii": "Piastra di terra II",
-      "block.createcraft.hardened_dirt_block": "Terra indurita",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
+      "block.createcraft.hardened_dirt_block": "Terra indurita",
       "advancements.dirt_plate_adv.title": "Terra piatta",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
