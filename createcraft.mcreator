@@ -684,6 +684,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hard_cobble_block_adv"
+    },
+    {
+      "name": "ReinDirtSwordRec",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "rein_dirt_sword_rec"
     }
   ],
   "variable_elements": [],
@@ -691,8 +700,8 @@
   "language_map": {
     "it_it": {
       "item.createcraft.dirt_plate_ii": "Piastra di terra II",
-      "block.createcraft.dirt_d_frame": "Dirt D Frame",
       "block.createcraft.hardened_dirt_block": "Terra indurita",
+      "block.createcraft.dirt_d_frame": "Dirt D Frame",
       "advancements.dirt_plate_adv.title": "Terra piatta",
       "advancements.create_craft_adv.title": "Create Craft!",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
@@ -703,8 +712,8 @@
       "item.createcraft.chocolate_shards": "Chocolate shards",
       "item.createcraft.dirt_plate_xii": "Dirt Plate XII",
       "item.createcraft.dirt_plate_vii": "Dirt Plate VII",
-      "item.createcraft.dirt_plate_x": "Dirt Plate X",
       "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
+      "item.createcraft.dirt_plate_x": "Dirt Plate X",
       "item.createcraft.dirt_plate_xv": "Dirt Plate XV",
       "advancements.hardened_dirt_block_adv.title": "Solid Dirt",
       "advancements.dirt_plate_adv.descr": "Ottieni un\u0027utilissima piastra di terra.",
@@ -744,8 +753,8 @@
     },
     "en_us": {
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-      "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
+      "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.create_craft_adv.title": "Create Craft!",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
@@ -757,8 +766,8 @@
       "item.createcraft.dirt_plate_xii": "Dirt Plate XII",
       "item.createcraft.dirt_plate_v": "Dirt Plate V",
       "item.createcraft.dirt_plate_vii": "Dirt Plate VII",
-      "item.createcraft.dirt_plate_x": "Dirt Plate X",
       "advancements.hardened_dirt_plate_adv.title": "Platonic Tates",
+      "item.createcraft.dirt_plate_x": "Dirt Plate X",
       "item.createcraft.dirt_plate_xv": "Dirt Plate XV",
       "advancements.hardened_dirt_block_adv.title": "Solid Dirt",
       "advancements.dirt_plate_adv.descr": "Make a dirt plate for many definitely very useful things.",

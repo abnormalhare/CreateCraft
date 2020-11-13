@@ -33,5 +33,5 @@
   "rewards": {
     "experience": 30
   },
-  "parent": "createcraft:rein_cobble_block_adv"
+  "parent": "createcraft:hardened_dirt_block_adv"
 }

@@ -33,5 +33,5 @@
   "rewards": {
     "experience": 1
   },
-  "parent": "createcraft:break_dirt"
+  "parent": "createcraft:hard_cobble_plate_adv"
 }

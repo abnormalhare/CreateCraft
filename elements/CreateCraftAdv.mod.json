@@ -5,7 +5,7 @@
     "achievementName": "Create Craft!",
     "achievementDescription": "This is the start of the Create Craft Advancements. Good luck!",
     "achievementIcon": {
-      "value": "Blocks.POTTED_AZURE_BLUET"
+      "value": "Blocks.DIRT#0"
     },
     "background": "Default",
     "disableDisplay": false,
