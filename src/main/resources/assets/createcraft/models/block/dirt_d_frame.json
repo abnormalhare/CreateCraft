@@ -3,10 +3,10 @@
   "textures": {
     "down": "createcraft:blocks/dirtdimensionframe1",
     "up": "createcraft:blocks/dirtdimensionframe1",
-    "north": "createcraft:blocks/new_piskel",
-    "east": "createcraft:blocks/dirtdimensionframe3",
+    "north": "createcraft:blocks/dirtdimensionframe1",
+    "east": "createcraft:blocks/dirtdimensionframe2",
     "south": "createcraft:blocks/dirtdimensionframe1",
-    "west": "createcraft:blocks/dirtdimensionframe2",
+    "west": "createcraft:blocks/dirtdimensionframe3",
     "particle": "createcraft:blocks/dirtdimensionframe1"
   }
 }
