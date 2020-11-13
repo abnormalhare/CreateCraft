@@ -17,11 +17,11 @@ import net.mcreator.createcraft.CreatecraftModElements;
 import java.util.List;
 
 @CreatecraftModElements.ModElement.Tag
-public class CobblePlateIIItem extends CreatecraftModElements.ModElement {
-	@ObjectHolder("createcraft:cobble_plate_ii")
+public class CobblePlateVItem extends CreatecraftModElements.ModElement {
+	@ObjectHolder("createcraft:cobble_plate_v")
 	public static final Item block = null;
-	public CobblePlateIIItem(CreatecraftModElements instance) {
-		super(instance, 58);
+	public CobblePlateVItem(CreatecraftModElements instance) {
+		super(instance, 65);
 	}
 
 	@Override
@@ -31,7 +31,7 @@ public class CobblePlateIIItem extends CreatecraftModElements.ModElement {
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
 			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
-			setRegistryName("cobble_plate_ii");
+			setRegistryName("cobble_plate_v");
 		}
 
 		@Override
@@ -52,7 +52,7 @@ public class CobblePlateIIItem extends CreatecraftModElements.ModElement {
 		@Override
 		public void addInformation(ItemStack itemstack, World world, List<ITextComponent> list, ITooltipFlag flag) {
 			super.addInformation(itemstack, world, list, flag);
-			list.add(new StringTextComponent("A red cobblestone plate."));
+			list.add(new StringTextComponent("A green cobblestone plate."));
 		}
 	}
 }
