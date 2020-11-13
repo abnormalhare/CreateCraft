@@ -2,14 +2,14 @@
   "_fv": 10,
   "_type": "block",
   "definition": {
-    "texture": "chocolate_block",
-    "textureTop": "",
-    "textureLeft": "",
-    "textureFront": "",
-    "textureRight": "",
-    "textureBack": "",
-    "renderType": 11,
-    "customModelName": "Single texture",
+    "texture": "hardenedcobbleplatepic",
+    "textureTop": "hardenedcobbleplatepic",
+    "textureLeft": "hardenedcobbleplatepic",
+    "textureFront": "hardenedcobbleplatepic",
+    "textureRight": "hardenedcobbleplatepic",
+    "textureBack": "hardenedcobbleplatepic",
+    "renderType": 10,
+    "customModelName": "Normal",
     "rotationMode": 0,
     "emissiveRendering": false,
     "itemTexture": "",
@@ -22,12 +22,10 @@
     "Mx": 1.0,
     "My": 1.0,
     "Mz": 1.0,
-    "name": "Chocolate Block",
-    "specialInfo": [
-      "Yummy!"
-    ],
-    "hardness": 0.7,
-    "resistance": 2.0,
+    "name": "Hardened Cobblestone Block",
+    "specialInfo": [],
+    "hardness": 28.0,
+    "resistance": 35.0,
     "hasGravity": false,
     "creativeTab": {
       "value": "CUSTOM:CreateCraft"
@@ -36,14 +34,14 @@
     "customDrop": {
       "value": ""
     },
-    "dropAmount": 9,
+    "dropAmount": 1,
     "isBeaconBase": false,
     "enchantPowerBonus": 0.0,
     "plantsGrowOn": false,
     "canProvidePower": false,
     "lightOpacity": 255,
     "material": {
-      "value": "CAKE"
+      "value": "ROCK"
     },
     "tickRate": 10,
     "tickRandomly": false,
@@ -54,7 +52,7 @@
     },
     "offsetType": "NONE",
     "aiPathNodeType": "DEFAULT",
-    "flammability": 3,
+    "flammability": 0,
     "fireSpreadSpeed": 0,
     "isLadder": false,
     "slipperiness": 0.6,

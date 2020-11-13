@@ -4,10 +4,10 @@ package net.mcreator.createcraft.item;
 import net.minecraftforge.registries.ObjectHolder;
 
 import net.minecraft.item.ItemStack;
-import net.minecraft.item.ItemGroup;
 import net.minecraft.item.Item;
 import net.minecraft.block.BlockState;
 
+import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
 import net.mcreator.createcraft.CreatecraftModElements;
 
 @CreatecraftModElements.ModElement.Tag
@@ -24,7 +24,7 @@ public class ChocolateShardsItem extends CreatecraftModElements.ModElement {
 	}
 	public static class ItemCustom extends Item {
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.FOOD).maxStackSize(64));
+			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
 			setRegistryName("chocolate_shards");
 		}
 

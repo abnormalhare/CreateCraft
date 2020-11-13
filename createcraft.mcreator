@@ -621,6 +621,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_dimension"
+    },
+    {
+      "name": "HardenedCobblestoneBlockAdv",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_cobblestone_block_adv"
+    },
+    {
+      "name": "HardenedCobblestoneBlock",
+      "type": "block",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_cobblestone_block"
     }
   ],
   "variable_elements": [],
@@ -634,7 +652,6 @@
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
       "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
-      "item.createcraft.dirt_dimension": "Dirt Lighter",
       "advancements.break_dirt.title": "La terra è mia!",
       "item.createcraft.reinforced_cobble_plate": "Piccone di pietrisco rinforzato",
       "item.createcraft.dir_plate_i": "Piastra di terra I",
@@ -675,7 +692,6 @@
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.dirt_d_frame": "Dirt Frame",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
-      "item.createcraft.dirt_lighter": "Dirt Lighter",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.break_dirt.title": "Break Dirt",
