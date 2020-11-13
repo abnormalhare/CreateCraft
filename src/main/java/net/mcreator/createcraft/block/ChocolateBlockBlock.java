@@ -21,6 +21,7 @@ import net.minecraft.block.BlockState;
 import net.minecraft.block.Block;
 
 import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
+import net.mcreator.createcraft.item.ChocolateShardsItem;
 import net.mcreator.createcraft.CreatecraftModElements;
 
 import java.util.List;
@@ -63,7 +64,7 @@ public class ChocolateBlockBlock extends CreatecraftModElements.ModElement {
 			List<ItemStack> dropsOriginal = super.getDrops(state, builder);
 			if (!dropsOriginal.isEmpty())
 				return dropsOriginal;
-			return Collections.singletonList(new ItemStack(this, 9));
+			return Collections.singletonList(new ItemStack(ChocolateShardsItem.block, (int) (9)));
 		}
 	}
 }
