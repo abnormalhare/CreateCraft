@@ -614,13 +614,22 @@
       "registry_name": "dirt_d_frame"
     },
     {
-      "name": "DirtLighter",
-      "type": "item",
+      "name": "HardenedCobblestoneBlock",
+      "type": "block",
       "sortid": 55,
       "compiles": true,
       "locked_code": false,
       "ids": {},
-      "registry_name": "dirt_lighter"
+      "registry_name": "hardened_cobblestone_block"
+    },
+    {
+      "name": "HardenedCobblestoneBlockAdv",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "hardened_cobblestone_block_adv"
     }
   ],
   "variable_elements": [],
@@ -628,7 +637,6 @@
   "language_map": {
     "it_it": {
       "item.createcraft.dirt_plate_ii": "Piastra di terra II",
-      "item.createcraft.dirt_lighter": "Dirt Lighter",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
       "block.createcraft.hardened_dirt_block": "Terra indurita",
       "advancements.dirt_plate_adv.title": "Terra piatta",
@@ -662,6 +670,7 @@
       "item.createcraft.dirt_stick": "Bastone di terra",
       "item.createcraft.dirt_plate_xi": "Dirt Plate XI",
       "advancements.hardened_dirt_plate_adv.descr": "Ottieni una piastra di terra indurita a partire dal pietrisco.",
+      "block.createcraft.hardened_cobblestone_block": "Hardened Cobblestone Block",
       "item.createcraft.dirt_plate_iv": "Piastra di terra IV",
       "advancements.reinforced_dirt_block_adv.title": "Più duro della terra...",
       "item.createcraft.dirt_plate_ix": "Dirt Plate IX",
@@ -675,7 +684,6 @@
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.dirt_d_frame": "Dirt Frame",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
-      "item.createcraft.dirt_lighter": "Dirt Lighter",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.break_dirt.title": "Break Dirt",
@@ -692,6 +700,7 @@
       "advancements.dirt_plate_iii_get.title": "Sunny Dirt",
       "item.createcraft.dirt_stick": "Dirt Stick",
       "item.createcraft.dirt_plate_xi": "Dirt Plate XI",
+      "block.createcraft.hardened_cobblestone_block": "Hardened Cobblestone Block",
       "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
       "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
       "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",

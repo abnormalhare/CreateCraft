@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "createcraft:blocks/hardenedcobbleplatepic",
+    "up": "createcraft:blocks/hardenedcobbleplatepic",
+    "north": "createcraft:blocks/hardenedcobbleplatepic",
+    "east": "createcraft:blocks/hardenedcobbleplatepic",
+    "south": "createcraft:blocks/hardenedcobbleplatepic",
+    "west": "createcraft:blocks/hardenedcobbleplatepic",
+    "particle": "createcraft:blocks/hardenedcobbleplatepic"
+  }
+}
