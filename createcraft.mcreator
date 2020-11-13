@@ -639,6 +639,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hardened_cobblestone_block"
+    },
+    {
+      "name": "ReinforcedDirtShovelRec",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_dirt_shovel_rec"
     }
   ],
   "variable_elements": [],
@@ -646,8 +655,8 @@
   "language_map": {
     "it_it": {
       "item.createcraft.dirt_plate_ii": "Piastra di terra II",
-      "block.createcraft.dirt_d_frame": "Dirt D Frame",
       "block.createcraft.hardened_dirt_block": "Terra indurita",
+      "block.createcraft.dirt_d_frame": "Dirt D Frame",
       "advancements.dirt_plate_adv.title": "Terra piatta",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
