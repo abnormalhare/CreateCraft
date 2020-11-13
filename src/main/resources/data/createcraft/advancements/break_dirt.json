@@ -33,5 +33,5 @@
   "rewards": {
     "experience": 3
   },
-  "parent": "minecraft:story/root"
+  "parent": "createcraft:create_craft_adv"
 }
