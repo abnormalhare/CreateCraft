@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "1": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "2": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "3": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "4": {
+      "item": "minecraft:yellow_dye"
+    },
+    "5": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "6": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "7": {
+      "item": "createcraft:cobble_plate_ii"
+    },
+    "8": {
+      "item": "createcraft:cobble_plate_ii"
+    }
+  },
+  "result": {
+    "item": "createcraft:cobble_plate_iii",
+    "count": 1
+  }
+}

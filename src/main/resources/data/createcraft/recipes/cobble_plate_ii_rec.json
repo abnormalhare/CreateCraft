@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "1": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "2": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "3": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "4": {
+      "item": "minecraft:red_dye"
+    },
+    "5": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "6": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "7": {
+      "item": "createcraft:reinforced_cobble_plate"
+    },
+    "8": {
+      "item": "createcraft:reinforced_cobble_plate"
+    }
+  },
+  "result": {
+    "item": "createcraft:cobble_plate_ii",
+    "count": 1
+  }
+}

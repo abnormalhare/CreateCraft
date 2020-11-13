@@ -648,6 +648,42 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "reinforced_dirt_shovel_rec"
+    },
+    {
+      "name": "CobblePlateII",
+      "type": "item",
+      "sortid": 58,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_ii"
+    },
+    {
+      "name": "CobblePlateIIRec",
+      "type": "recipe",
+      "sortid": 59,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_ii_rec"
+    },
+    {
+      "name": "CobblePlateIII",
+      "type": "item",
+      "sortid": 60,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_iii"
+    },
+    {
+      "name": "CobblePlateIIIRec",
+      "type": "recipe",
+      "sortid": 61,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_iii_rec"
     }
   ],
   "variable_elements": [],
@@ -661,6 +697,7 @@
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
       "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
       "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
+      "item.createcraft.cobble_plate_ii": "Cobble Plate II",
       "item.createcraft.dirt_dimension": "Dirt Lighter",
       "advancements.break_dirt.title": "La terra è mia!",
       "item.createcraft.reinforced_cobble_plate": "Piccone di pietrisco rinforzato",
@@ -668,6 +705,7 @@
       "item.createcraft.dirt_plate_xvi": "Dirt Plate XVI",
       "block.createcraft.chocolate_block": "Chocolate Block",
       "advancements.break_dirt.descr": "Distruggi un blocco di terra.",
+      "item.createcraft.cobble_plate_iii": "Cobble Plate III",
       "item.createcraft.dirt_plate_xiv": "Dirt Plate XIV",
       "advancements.dirt_plate_ii_get.descr": "Ottieni una Piastra di terra II",
       "advancements.reinforced_cobble_plate_adv.descr": "Ottieni una piastra di pietrisco rinforzata.",
@@ -727,11 +765,13 @@
       "advancements.dirt_plate_iv_get.title": "Compresception",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
       "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
+      "item.createcraft.cobble_plate_ii": "Cobble Plate II",
       "item.createcraft.dirt_dimension": "Dirt Lighter",
       "item.createcraft.reinforced_cobble_plate": "Reinforced Cobble Plate",
       "advancements.reinforced_dirt_pickaxe_adv.title": "Fast and Dirty",
       "item.createcraft.dirt_plate_xvi": "Dirt Plate XVI",
       "block.createcraft.chocolate_block": "Chocolate Block",
+      "item.createcraft.cobble_plate_iii": "Cobble Plate III",
       "item.createcraft.dirt_plate_xiv": "Dirt Plate XIV",
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
       "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
