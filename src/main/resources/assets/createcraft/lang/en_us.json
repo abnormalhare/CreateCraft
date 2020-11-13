@@ -1,6 +1,6 @@
 {
   "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-  "block.createcraft.dirt_d_frame": "Dirt Frame",
+  "block.createcraft.dirt_d_frame": "Dirt D Frame",
   "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
   "advancements.dirt_plate_adv.title": "Flat Dirt",
   "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
@@ -18,6 +18,7 @@
   "advancements.dirt_plate_iii_get.title": "Sunny Dirt",
   "item.createcraft.dirt_stick": "Dirt Stick",
   "item.createcraft.dirt_plate_xi": "Dirt Plate XI",
+  "block.createcraft.hardened_cobblestone_block": "Hardened Cobblestone Block",
   "advancements.reinforced_dirt_block_adv.title": "Harded Than Dirt",
   "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
   "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",

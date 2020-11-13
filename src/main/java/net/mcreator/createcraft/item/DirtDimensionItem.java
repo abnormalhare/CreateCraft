@@ -1,11 +1,22 @@
 
 package net.mcreator.createcraft.item;
 
-public class DirtDimensionItem extends Item {
+import net.minecraftforge.registries.ObjectHolder;
 
+import net.minecraft.world.World;
+import net.minecraft.util.math.BlockPos;
+import net.minecraft.util.ActionResultType;
+import net.minecraft.item.ItemUseContext;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.entity.player.PlayerEntity;
+
+import net.mcreator.createcraft.world.dimension.DirtDimensionDimension;
+import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
+
+public class DirtDimensionItem extends Item {
 	@ObjectHolder("createcraft:dirt_dimension")
 	public static final Item block = null;
-
 	public DirtDimensionItem() {
 		super(new Item.Properties().group(CreateCraftItemGroup.tab).maxDamage(64));
 	}
@@ -22,10 +33,8 @@ public class DirtDimensionItem extends Item {
 			int x = pos.getX();
 			int y = pos.getY();
 			int z = pos.getZ();
-
 			if (world.isAirBlock(pos) && true)
 				DirtDimensionDimension.portal.portalSpawn(world, pos);
-
 			itemstack.damageItem(1, entity, c -> c.sendBreakAnimation(context.getHand()));
 			return ActionResultType.SUCCESS;
 		}

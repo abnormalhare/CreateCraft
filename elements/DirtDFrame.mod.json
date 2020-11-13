@@ -10,7 +10,7 @@
     "textureBack": "dirtdimensionframe1",
     "renderType": 10,
     "customModelName": "Normal",
-    "rotationMode": 0,
+    "rotationMode": 2,
     "emissiveRendering": false,
     "itemTexture": "",
     "hasTransparency": false,
