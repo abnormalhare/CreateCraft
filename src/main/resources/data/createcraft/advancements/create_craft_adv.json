@@ -1,13 +1,14 @@
 {
   "display": {
+    "background": "minecraft:textures/block/stone.png",
     "icon": {
-      "item": "createcraft:reinforced_cobble_plate"
+      "item": "minecraft:dirt"
     },
     "title": {
-      "translate": "advancements.reinforced_cobble_plate_adv.title"
+      "translate": "advancements.create_craft_adv.title"
     },
     "description": {
-      "translate": "advancements.reinforced_cobble_plate_adv.descr"
+      "translate": "advancements.create_craft_adv.descr"
     },
     "frame": "task",
     "show_toast": true,
@@ -15,15 +16,15 @@
     "hidden": false
   },
   "criteria": {
-    "reinforced_cobble_plate_adv": {
+    "create_craft_adv": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
           {
-            "item": "createcraft:reinforced_cobble_plate",
+            "item": "minecraft:dirt",
             "count": {
               "min": 1,
-              "max": 23453
+              "max": 3243245
             }
           }
         ]
@@ -31,7 +32,6 @@
     }
   },
   "rewards": {
-    "experience": 30
-  },
-  "parent": "createcraft:hardened_dirt_block_adv"
+    "experience": 1
+  }
 }

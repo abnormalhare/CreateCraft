@@ -4,9 +4,9 @@
   "definition": {
     "texture": "dirtdimensionframe1",
     "textureTop": "dirtdimensionframe1",
-    "textureLeft": "dirtdimensionframe2",
-    "textureFront": "dirtdimensionframe1",
-    "textureRight": "dirtdimensionframe3",
+    "textureLeft": "dirtdimensionframe3",
+    "textureFront": "new_piskel",
+    "textureRight": "dirtdimensionframe2",
     "textureBack": "dirtdimensionframe1",
     "renderType": 10,
     "customModelName": "Normal",
