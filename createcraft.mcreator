@@ -639,6 +639,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "hardened_cobblestone_block"
+    },
+    {
+      "name": "ReinforcedDirtShovelRec",
+      "type": "recipe",
+      "sortid": 57,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforced_dirt_shovel_rec"
     }
   ],
   "variable_elements": [],

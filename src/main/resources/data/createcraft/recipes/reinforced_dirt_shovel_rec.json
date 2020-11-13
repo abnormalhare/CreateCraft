@@ -1,0 +1,30 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "1": {
+      "item": "createcraft:reinforced_dirt_block"
+    },
+    "2": {
+      "item": "createcraft:dir_plate_i"
+    },
+    "4": {
+      "item": "createcraft:dirt_stick"
+    },
+    "7": {
+      "item": "createcraft:dirt_stick"
+    }
+  },
+  "result": {
+    "item": "createcraft:reinforced_dirt_shovel",
+    "count": 1
+  }
+}
