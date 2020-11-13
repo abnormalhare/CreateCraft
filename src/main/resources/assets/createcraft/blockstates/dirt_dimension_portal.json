@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "axis=z": {
+      "model": "createcraft:block/dirt_dimension_portal_ew"
+    },
+    "axis=x": {
+      "model": "createcraft:block/dirt_dimension_portal_ns"
+    }
+  }
+}
