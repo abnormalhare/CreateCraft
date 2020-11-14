@@ -720,6 +720,78 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_plate_ii_rec"
+    },
+    {
+      "name": "CobblePlateIV",
+      "type": "item",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_iv"
+    },
+    {
+      "name": "CobblePlateVIIRec",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_vii_rec"
+    },
+    {
+      "name": "CobblePlateVRec",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_v_rec"
+    },
+    {
+      "name": "CobblePlateVIRec",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_vi_rec"
+    },
+    {
+      "name": "CobblePlateV",
+      "type": "item",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_v"
+    },
+    {
+      "name": "CobblePlateIVRec",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_iv_rec"
+    },
+    {
+      "name": "CobblePlateVII",
+      "type": "item",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_vii"
+    },
+    {
+      "name": "CobblePlateVI",
+      "type": "item",
+      "sortid": 67,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "cobble_plate_vi"
     }
   ],
   "variable_elements": [],
@@ -780,6 +852,7 @@
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
       "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
+      "item.createcraft.cobble_plate_vii": "Cobble Plate VII",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.create_craft_adv.title": "Create Craft!",
       "item.createcraft.dirt_plate_xiii": "Dirt Plate XIII",
@@ -821,10 +894,12 @@
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
       "advancements.reinforced_cobble_plate_adv.descr": "Make a Reinforced Cobble Plate.",
       "advancements.reinforced_dirt_pickaxe_adv.descr": "Get the Reinforce Dirt Pickaxe",
+      "item.createcraft.cobble_plate_v": "Cobble Plate V",
       "advancements.reinforced_cobble_plate_adv.title": "The Flatstones",
       "item.createcraft.dirt_plate_xvii": "Dirt Plate XVII",
       "block.createcraft.reinforced_dirt_block": "Reinforced Dirt Block",
       "advancements.reinforced_dirt_block_adv.descr": "You made a cool block! Wow!",
+      "item.createcraft.cobble_plate_vi": "Cobble Plate VI",
       "advancements.hard_cobble_block_adv.descr": "Craft a Hardened Cobble Block. Less Dirt, more Cobble!",
       "advancements.dirt_plate_iii_get.descr": "Craft a Dirt Plate III",
       "item.createcraft.hardened_dirt_plate": "Hardened Dirt Plate",
@@ -836,6 +911,7 @@
       "item.createcraft.dirt_plate_ix": "Dirt Plate IX",
       "advancements.dirt_plate_iv_get.descr": "Craft a Dirt Plate IV",
       "item.createcraft.reinforced_dirt_shovel": "Reinforced Dirt Shovel",
+      "item.createcraft.cobble_plate_iv": "Cobble Plate IV",
       "item.createcraft.epic_dirt_plate": "Epic Dirt Plate"
     }
   },
