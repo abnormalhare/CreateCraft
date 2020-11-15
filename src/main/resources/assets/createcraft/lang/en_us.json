@@ -1,7 +1,7 @@
 {
   "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-  "block.createcraft.dirt_d_frame": "Dirt D Frame",
   "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
+  "block.createcraft.dirt_d_frame": "Dirt D Frame",
   "item.createcraft.cobble_plate_vii": "Cobble Plate VII",
   "advancements.dirt_plate_adv.title": "Flat Dirt",
   "advancements.create_craft_adv.title": "Create Craft!",
@@ -41,6 +41,7 @@
   "item.createcraft.dirt_plate_xvi": "Dirt Plate XVI",
   "block.createcraft.chocolate_block": "Chocolate Block",
   "advancements.hardened_dirt_block_adv.descr": "Craft a Hardened Dirt Block with Cobble and Hardened Dirt Plates",
+  "item.createcraft.tiramisu": "Tiramisu",
   "item.createcraft.cobble_plate_iii": "Cobble Plate III",
   "item.createcraft.dirt_plate_xiv": "Dirt Plate XIV",
   "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",

@@ -1,0 +1,39 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:sugar"
+    },
+    "2": {
+      "item": "minecraft:sugar"
+    },
+    "3": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "4": {
+      "item": "minecraft:milk_bucket"
+    },
+    "5": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "6": {
+      "item": "minecraft:bread"
+    },
+    "7": {
+      "item": "minecraft:bread"
+    },
+    "8": {
+      "item": "minecraft:bread"
+    }
+  },
+  "result": {
+    "item": "createcraft:tiramisu",
+    "count": 1
+  }
+}
