@@ -563,7 +563,7 @@
       "name": "DirtDimension",
       "type": "dimension",
       "sortid": 55,
-      "compiles": true,
+      "compiles": false,
       "locked_code": false,
       "ids": {},
       "registry_name": "dirt_dimension"
@@ -801,6 +801,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "cobble_plate_vi"
+    },
+    {
+      "name": "ChocolateBlockRecipe",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "chocolate_block_recipe"
     }
   ],
   "variable_elements": [],
@@ -863,8 +872,8 @@
     },
     "en_us": {
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-      "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
+      "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "item.createcraft.cobble_plate_vii": "Cobble Plate VII",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.create_craft_adv.title": "Create Craft!",
