@@ -846,6 +846,15 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "liquid_chocolate_bowl_recipe"
+    },
+    {
+      "name": "DirtLighterRec",
+      "type": "recipe",
+      "sortid": 72,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "dirt_lighter_rec"
     }
   ],
   "variable_elements": [],
@@ -952,7 +961,6 @@
       "item.createcraft.dirt_plate_xvi": "Dirt Plate XVI",
       "block.createcraft.chocolate_block": "Chocolate Block",
       "advancements.hardened_dirt_block_adv.descr": "Craft a Hardened Dirt Block with Cobble and Hardened Dirt Plates",
-      "item.createcraft.tiramisu": "Tiramisu",
       "item.createcraft.cobble_plate_iii": "Cobble Plate III",
       "item.createcraft.dirt_plate_xiv": "Dirt Plate XIV",
       "advancements.dirt_plate_ii_get.descr": "Craft a Dirt Plate II",
