@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "createcraft:block/hardened_cobblestone_block"
+    }
+  }
+}

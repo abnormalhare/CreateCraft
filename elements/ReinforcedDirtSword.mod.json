@@ -1,0 +1,26 @@
+{
+  "_fv": 10,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "reindirtswordpic",
+    "customModelName": "Normal",
+    "name": "Reinforced Dirt Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:CreateCraft"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 2,
+    "efficiency": 5.0,
+    "attackSpeed": 2.0,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 204,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

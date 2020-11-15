@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:unknown_element"
+    },
+    "1": {
+      "item": "createcraft:unknown_element"
+    },
+    "2": {
+      "item": "createcraft:unknown_element"
+    },
+    "3": {
+      "item": "createcraft:unknown_element"
+    },
+    "4": {
+      "item": "minecraft:white_dye"
+    },
+    "5": {
+      "item": "createcraft:unknown_element"
+    },
+    "6": {
+      "item": "createcraft:unknown_element"
+    },
+    "7": {
+      "item": "createcraft:unknown_element"
+    },
+    "8": {
+      "item": "createcraft:unknown_element"
+    }
+  },
+  "result": {
+    "item": "createcraft:unknown_element",
+    "count": 1
+  }
+}

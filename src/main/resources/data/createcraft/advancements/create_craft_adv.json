@@ -1,13 +1,14 @@
 {
   "display": {
+    "background": "minecraft:textures/block/stone.png",
     "icon": {
       "item": "minecraft:dirt"
     },
     "title": {
-      "translate": "advancements.break_dirt.title"
+      "translate": "advancements.create_craft_adv.title"
     },
     "description": {
-      "translate": "advancements.break_dirt.descr"
+      "translate": "advancements.create_craft_adv.descr"
     },
     "frame": "task",
     "show_toast": true,
@@ -15,7 +16,7 @@
     "hidden": false
   },
   "criteria": {
-    "break_dirt": {
+    "create_craft_adv": {
       "trigger": "minecraft:inventory_changed",
       "conditions": {
         "items": [
@@ -23,7 +24,7 @@
             "item": "minecraft:dirt",
             "count": {
               "min": 1,
-              "max": 38492
+              "max": 3243245
             }
           }
         ]
@@ -31,7 +32,6 @@
     }
   },
   "rewards": {
-    "experience": 3
-  },
-  "parent": "minecraft:story/root"
+    "experience": 1
+  }
 }

@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "createcraft:hardened_dirt_block"
+    },
+    "title": {
+      "translate": "advancements.hardened_dirt_block_adv.title"
+    },
+    "description": {
+      "translate": "advancements.hardened_dirt_block_adv.descr"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "hardened_dirt_block_adv": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "createcraft:hardened_dirt_block",
+            "count": {
+              "min": 1,
+              "max": 3254
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "createcraft:hardened_dirt_plate_adv"
+}

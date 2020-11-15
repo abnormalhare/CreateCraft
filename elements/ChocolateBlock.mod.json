@@ -30,11 +30,11 @@
     "resistance": 2.0,
     "hasGravity": false,
     "creativeTab": {
-      "value": "DECORATIONS"
+      "value": "CUSTOM:CreateCraft"
     },
     "destroyTool": "Not specified",
     "customDrop": {
-      "value": ""
+      "value": "CUSTOM:ChocolateShards"
     },
     "dropAmount": 9,
     "isBeaconBase": false,

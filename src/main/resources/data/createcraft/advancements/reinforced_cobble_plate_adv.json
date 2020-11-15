@@ -33,5 +33,5 @@
   "rewards": {
     "experience": 30
   },
-  "parent": "createcraft:hardened_dirt_plate_adv"
+  "parent": "createcraft:hardened_dirt_block_adv"
 }

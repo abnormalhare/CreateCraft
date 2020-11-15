@@ -1,12 +1,25 @@
 
 package net.mcreator.createcraft.item;
 
+import net.minecraftforge.registries.ObjectHolder;
+
+import net.minecraft.world.World;
+import net.minecraft.util.text.StringTextComponent;
+import net.minecraft.util.text.ITextComponent;
+import net.minecraft.item.ItemStack;
+import net.minecraft.item.Item;
+import net.minecraft.client.util.ITooltipFlag;
+import net.minecraft.block.BlockState;
+
+import net.mcreator.createcraft.itemgroup.CreateCraftItemGroup;
+import net.mcreator.createcraft.CreatecraftModElements;
+
+import java.util.List;
+
 @CreatecraftModElements.ModElement.Tag
 public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
-
 	@ObjectHolder("createcraft:dirt_plate_iv")
 	public static final Item block = null;
-
 	public DirtPlateIVItem(CreatecraftModElements instance) {
 		super(instance, 18);
 	}
@@ -15,11 +28,9 @@ public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
 	public void initElements() {
 		elements.items.add(() -> new ItemCustom());
 	}
-
 	public static class ItemCustom extends Item {
-
 		public ItemCustom() {
-			super(new Item.Properties().group(ItemGroup.MISC).maxStackSize(64));
+			super(new Item.Properties().group(CreateCraftItemGroup.tab).maxStackSize(64));
 			setRegistryName("dirt_plate_iv");
 		}
 
@@ -43,7 +54,5 @@ public class DirtPlateIVItem extends CreatecraftModElements.ModElement {
 			super.addInformation(itemstack, world, list, flag);
 			list.add(new StringTextComponent("A blue dirt plate."));
 		}
-
 	}
-
 }
