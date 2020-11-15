@@ -1,7 +1,7 @@
 {
   "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-  "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
   "block.createcraft.dirt_d_frame": "Dirt D Frame",
+  "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
   "item.createcraft.cobble_plate_vii": "Cobble Plate VII",
   "advancements.dirt_plate_adv.title": "Flat Dirt",
   "advancements.create_craft_adv.title": "Create Craft!",
@@ -30,6 +30,7 @@
   "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
   "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",
   "itemGroup.tabcreate_craft": "Create Craft",
+  "item.createcraft.liquid_chocolate_bowl": "Liquid chocolate bowl",
   "advancements.dirt_plate_iv_get.title": "Compresception",
   "item.createcraft.reinforced_dirt_sword": "Reinforced Dirt Sword",
   "advancements.dirt_plate_ii_get.title": "Better Dirt",

@@ -828,6 +828,24 @@
       "locked_code": false,
       "ids": {},
       "registry_name": "tiramisu"
+    },
+    {
+      "name": "LiquidChocolateBowl",
+      "type": "food",
+      "sortid": 75,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "liquid_chocolate_bowl"
+    },
+    {
+      "name": "LiquidChocolateBowlRecipe",
+      "type": "recipe",
+      "sortid": 76,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "liquid_chocolate_bowl_recipe"
     }
   ],
   "variable_elements": [],
@@ -860,6 +878,7 @@
       "block.createcraft.reinforced_cobblestone_block": "Pietrisco rinforzato",
       "item.createcraft.reinforced_dirt_pick": "Piccone di terra rinforzato",
       "itemGroup.tabcreate_craft": "Create Craft",
+      "item.createcraft.liquid_chocolate_bowl": "Liquid chocolate bowl",
       "item.createcraft.reinforced_dirt_sword": "Reinforced Dirt Sword",
       "advancements.dirt_plate_ii_get.title": "L\u0027evoluzione della terra",
       "item.createcraft.dirt_plate_viii": "Dirt Plate VIII",
@@ -891,8 +910,8 @@
     },
     "en_us": {
       "item.createcraft.dirt_plate_ii": "Dirt Plate II",
-      "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "block.createcraft.dirt_d_frame": "Dirt D Frame",
+      "block.createcraft.hardened_dirt_block": "Hardened Dirt Block",
       "item.createcraft.cobble_plate_vii": "Cobble Plate VII",
       "advancements.dirt_plate_adv.title": "Flat Dirt",
       "advancements.create_craft_adv.title": "Create Craft!",
@@ -921,6 +940,7 @@
       "block.createcraft.reinforced_cobblestone_block": "Reinforced Cobblestone Block",
       "item.createcraft.reinforced_dirt_pick": "Reinforced Dirt Pick",
       "itemGroup.tabcreate_craft": "Create Craft",
+      "item.createcraft.liquid_chocolate_bowl": "Liquid chocolate bowl",
       "advancements.dirt_plate_iv_get.title": "Compresception",
       "item.createcraft.reinforced_dirt_sword": "Reinforced Dirt Sword",
       "advancements.dirt_plate_ii_get.title": "Better Dirt",
