@@ -8,35 +8,35 @@
   ],
   "key": {
     "0": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "1": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "2": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "3": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "4": {
       "item": "minecraft:purple_dye"
     },
     "5": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "6": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "7": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     },
     "8": {
-      "item": "createcraft:cobble_plate_vi"
+      "item": "createcraft:unknown_element"
     }
   },
   "result": {
-    "item": "createcraft:cobble_plate_vii",
+    "item": "createcraft:unknown_element",
     "count": 1
   }
 }

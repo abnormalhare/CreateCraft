@@ -1,0 +1,42 @@
+{
+  "group": "createcraft",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "1": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "2": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "3": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "4": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "5": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "6": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "7": {
+      "item": "createcraft:chocolate_shards"
+    },
+    "8": {
+      "item": "createcraft:chocolate_shards"
+    }
+  },
+  "result": {
+    "item": "createcraft:chocolate_block",
+    "count": 1
+  }
+}

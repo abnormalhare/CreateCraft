@@ -53,7 +53,7 @@ public class ReinforcedDirtBlockBlock extends CreatecraftModElements.ModElement 
 	public static class CustomBlock extends FallingBlock {
 		public CustomBlock() {
 			super(Block.Properties.create(Material.ROCK).sound(SoundType.GROUND).hardnessAndResistance(5f, 25f).lightValue(0).harvestLevel(1)
-					.harvestTool(ToolType.PICKAXE).slipperiness(0.3f));
+					.harvestTool(ToolType.PICKAXE));
 			setRegistryName("reinforced_dirt_block");
 		}
 
